@@ -1,10 +1,10 @@
 # Digital-Literacy-Projects
-**Course:** CSE0001 - Digital Literacy  
-**Student Name:** Nishtha Sahu 
-**Registration No.:** 25BEY10015
-**Branch:** CSE (E-Commerce Technology)
-**Year:** 1st Year B.Tech  
-**Institution:** VIT Bhopal University
+**Course:** CSE0001 - Digital Literacy    
+**Student Name:** Nishtha Sahu  
+**Registration No.:** 25BEY10015  
+**Branch:** CSE (E-Commerce Technology)  
+**Year:** 1st Year B.Tech   
+**Institution:** VIT Bhopal University  
 
 ## Project Overview
 
