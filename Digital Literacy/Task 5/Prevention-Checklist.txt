@@ -1,0 +1,28 @@
+# STAY SAFE ONLINE — PREVENTION CHECKLIST
+
+## GENERAL SAFETY TIPS
+1. Use a strong, unique password for each account. Use a password manager if needed.
+2. Enable two-factor authentication (2FA) for email, banking and social media.
+3. Update software regularly to fix security vulnerabilities.
+4. Be cautious of links and attachments in emails or messages, even if they seem familiar.
+5. Backup your data on external drives or cloud platforms.
+6. Use antivirus and firewall software and keep them updated
+
+## Prevention in Financial Transaction
+7. Don't share OTP or PINs even with people claiming to be bank officials.
+8. Verify the source of messages asking for urgent fund transfers.
+9. Enable transaction alerts for every debit or credit made from your account.
+10. Use official apps and websites; avoid clicking on unsolicited payment links.
+11. Report fraud immediately to your bank and to the National Cyber Crime Portal.
+
+## Prevention on the Personal Level
+12. Don't overshare on social media, especially location, financial status, or personal identifiers. 
+13. Use privacy settings to control who sees your content online.
+14. Block and report cyber stalkers or online bullies.
+15. Be cautious with dating apps and unknown online contacts
+16. Regularly Google your name to monitor your digital footprint.
+17. Talk to trusted people if you experience online harassment. It's not something you need to face alone.
+
+## Government and legal support 
+1. https://cybercrime.gov.im - for reporting incidents
+2. CERT-In(Indian Computer Emergency Response Team) - for technical alerts and advisories
